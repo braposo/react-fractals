@@ -1,4 +1,4 @@
-Just added [MobX](mobxjs.github.io/mobx/) to the original app.
+Just added [MobX](//mobxjs.github.io/mobx/) to the original app.
 
 --
 
